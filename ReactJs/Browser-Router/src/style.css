@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.home{
+    width: 100%;
+    height: 100vh;
+}
+.nav{
+   height: 15%;
+   border: 2px solid black;
+   display: flex;
+   align-items: center;
+   
+}
+.nav-login{
+    margin-left: 20px;
+}
+.nav-signup{
+    margin-left: 20px;
+}
+.nav-contact{
+    margin-left: 20px;
+}
+.nav-about{
+    margin-left: 20px;
+}
+.login,.signup{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+.login-content{
+    width: 50%;
+    height: 50%;
+    border-radius: 40px;
+    background-color: antiquewhite;
+}
+.signup-content{
+    width: 50%;
+    height: 50%;
+    border-radius: 40px;
+    background-color: rgb(199, 210, 236);
+}
+.login-text,.signup-text{
+    margin-left: 43%;
+    margin-top: 10%;
+    color: rgb(94, 64, 64);
+
+}
+.login-username,.signup-username{
+    margin-left: 35%;
+    margin-top: 10px;
+}
+.login-password,.signup-password{
+    margin-left: 35%;
+    margin-top: 10px;
+}
+.login-button,.signup-button{
+    margin-left: 47%;
+    margin-top: 10px;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.contact-content{
+    width: 50%;
+    height: 150px;
+    border: 1px solid;
+    border-radius: 30px;
+    padding-left: 12%;
+    padding-top: 50px;
+}
+
+.about{
+    margin: 40px 30px;
+}

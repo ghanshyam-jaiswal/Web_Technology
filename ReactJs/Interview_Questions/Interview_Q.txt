@@ -1,0 +1,22 @@
+*Interview Q:
+Q. What is reconsilation process.
+Q. What is defing algorithm.
+Q. Diffence b/w real dom and vertual dom.
+Q. What is mean by react fragment.
+Q. What is jsx.
+Q. Difference b/w class base component and functional base component.
+Q. What is state in react.
+Q. Difference b/w javascript object and state object. What are the possible state values in class base component.
+Q. What is props. Difference b/w state and props.
+Q. What is context api.
+Q. What is refs.
+Q. What is synthetic event and difference b/w synthetic event and dom event.
+Q. Difference b/w controlled and uncontrolled component.
+
+
+
+
+
+
+
+

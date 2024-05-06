@@ -1,0 +1,72 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.github {
+  width: 100%;
+  height: 100%;
+  margin-top: 50px;
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+}
+.githubdata {
+  height: 200px;
+  width: 200px;
+  border: 2px solid;
+}
+.git-data-text {
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.github-view-more {
+  border: 2px solid;
+}
+
+
+/** Home **/
+.home{
+    
+    padding-top: 20px;
+
+}
+
+
+
+/** Landing **/
+.landing {
+    width: 100%;
+  height: 100vh;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiDf-czjEw6TYzfy8fT5WMBkmdNozQhNmjlw&s");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20px 20px;
+  
+}
+.landing-text{
+    background-color:rgb(196, 196, 101);
+    color: rgb(37, 13, 13);
+    border: 1px solid black;
+    
+}
+
+.login{
+    border: 1px solid;
+    margin-left: 20px;
+    padding: 5px 10px;
+   background-color: bisque;
+   text-decoration: none;
+}
+.login-form{
+  width: 20%;
+  height: 30%;
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+  align-content: space-around;
+}

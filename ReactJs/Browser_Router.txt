@@ -1,0 +1,5 @@
+*Browser Router:
+------------------
+
+- library install in cmd: npm install create-router-dom
+- to uninstall: npm uninstall create-router-dom
